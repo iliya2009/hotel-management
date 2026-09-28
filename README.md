@@ -14,7 +14,7 @@ A simple hotel management system built with Python.
 
 1. Make sure Python 3 is installed
 2. Run the program:
-   python a.py
+   python hotel.py
 
 ## Technologies
 
